@@ -6,7 +6,8 @@
     "vite": "^5.0.12"
   },
   "scripts": {
-    "build": "vite build"
+    "build": "npx vite build"
   }
+  
 }
   
